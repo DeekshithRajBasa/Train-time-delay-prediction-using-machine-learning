@@ -17,4 +17,4 @@ Libraries that i've used to develop this project
 8.Requests <br>
 9.Keras <br>
 
-One can install all the aboove libraries using Pip
+One can install all the above libraries using pip
