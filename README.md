@@ -9,12 +9,12 @@ Libraries that i've used to develop this project
 
 1.Numpy<br>
 2.Scikit-learn <br>
-3.Scipy
-4.Pandas
-5.TensorFlow
-6.Matplotlib
-7.BeautifulSoup4
-8.Requests 
-9.Keras
+3.Scipy <br>
+4.Pandas <br>
+5.TensorFlow <br>
+6.Matplotlib <br>
+7.BeautifulSoup4 <br>
+8.Requests <br>
+9.Keras <br>
 
 One can install all the aboove libraries using Pip
