@@ -7,8 +7,8 @@ We propose a Recurrent Neural Network Learning Algorithm that fully exploits the
 
 Libraries that i've used to develop this project
 
-1.Numpy
-2.Scikit-learn
+1.Numpy<br>
+2.Scikit-learn <br>
 3.Scipy
 4.Pandas
 5.TensorFlow
